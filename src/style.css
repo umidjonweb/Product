@@ -1,0 +1,22 @@
+*
+{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+.container{
+   max-width: 1300px;
+   padding: 0px 30px;
+   width: 100%;
+   margin: 0px auto;
+}
+button{
+   background-color: transparent;
+   border: 0;
+   outline: 0;
+}
+a{
+   text-decoration: none;
+   border: 0;
+   outline: 0;
+}
